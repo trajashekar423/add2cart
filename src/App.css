@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.img-grid img{
+  width: 40%;
+  padding: 20px;
+  height: 200px;
+}
+
+.product-card{
+  text-align: center;
+}
+
+.thumbnail  img{
+  width: 40%;
+}
+
+tbody, td, tfoot, th, thead, tr {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  vertical-align: baseline;
+}
